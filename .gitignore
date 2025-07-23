@@ -1,30 +1,3 @@
-/ICPC/Sheet 1/.cph
-ICPC/Sheet 1/E_Area_of_a_Circle.bin
-ICPC/Sheet 1/.vscode/settings.json
-ICPC/Sheet 2/.cph/.C_Even_Odd_Positive_and_Negative.cpp_dc8db9904aa49e7ac5a5bf11ed98c4d6.prob
-ICPC/Sheet 2/.cph/.D_Fixed_Password.cpp_b6c1d93175ee512e62444f7401450f71.prob
-ICPC/Sheet 2/.cph/.E_Max.cpp_83eb5392d4ee56f5c31b8f8ee0437101.prob
-ICPC/Sheet 2/E_Max.bin
-ICPC/Sheet 2/.cph/.F_Multiplication_table.cpp_638a61e824e5b46399f5bf16db4b7435.prob
-ICPC/Sheet 2/.vscode/settings.json
-ICPC/Sheet 2/.cph/.H_One_Prime.cpp_df9f1cca4cd0506b6e0ceb7b4ad690bf.prob
-ICPC/Sheet 2/.cph/.I_Palindrome.cpp_e79242aaf7d89b1e45e24b830fccba21.prob
-ICPC/Sheet 2/.cph/.K_Divisors.cpp_01796f7f258cb5f643d4d4c1000d3f04.prob
-ICPC/Sheet 2/.cph/.L_GCD.cpp_73333fd74ca4886949e4ea58cabab422.prob
-ICPC/Sheet 2/.cph/.M_Lucky_Numbers.cpp_7c0e3237396ac8ce3bea1f74edd8d480.prob
-ICPC/Sheet 2/.cph/.N_Numbers_Histogram.cpp_88aa8b57d9650976fbd92a27fddc01ef.prob
-ICPC/Sheet 2/.cph/.O_Pyramid.cpp_312749f53a157335cfe121f3d7378272.prob
-ICPC/Sheet 2/.cph/.P_Shape_1.cpp_ad495050e78f9868e686d470e0410753.prob
-ICPC/Sheet 2/.cph/.Q_Digits.cpp_bce69c725f5dc06def4d5f2f2cf6a550.prob
-ICPC/Sheet 2/.cph/.R_Sequence_of_Numbers_and_Sum.cpp_afa6d802f86c8337979979e218355d5e.prob
-ICPC/Sheet 2/.cph/.S_Sum_of_Consecutive_Odd_Numbers.cpp_22cc2b65986f43f4853775fced795c92.prob
-ICPC/Sheet 2/.cph/.T_Shape_2.cpp_1d57731408075c6d6d93ae6f0a900ead.prob
-ICPC/Sheet 2/.cph/.U_Some_Sums.cpp_41585ec50b6d254a8407f6dfd4e0e596.prob
-ICPC/Sheet 2/.cph/.V_PUM.cpp_afdf92732c5346ffcf6312d25e7f8b39.prob
-ICPC/Sheet 2/.cph/.W_Shape_3.cpp_e685e4cd571ffb51b784e446276a0c9e.prob
-ICPC/Sheet 3/.cph/.A_Summation.cpp_e7fe100580bd01f59626ee47b8b3235b.prob
-ICPC/Sheet 3/.cph/.B_Searching.cpp_babf7731c87b96d5a72059d9ae89aee2.prob
-ICPC/Sheet 3/.cph/.C_Replacement.cpp_cc413e930cdb88ee06171e4401b6cff1.prob
-ICPC/Sheet 3/D_Positions_in_array.cpp
-ICPC/Sheet 3/.cph/.D_Positions_in_array.cpp_49b83b73929000d0038488a4fd6dc093.prob
-ICPC/Sheet 3/.cph/.E_Lowest_Number.cpp_c2fa34646a0ec37a9267181588e15d71.prob
+*.cph
+*.vscode
+*.exe
